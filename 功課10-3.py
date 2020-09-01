@@ -21,8 +21,8 @@ x[b] = g
 x[c] = h
 x[d] = i
 x[e] = j
-print(zip(max(x.values())))
-print(zip(min(x.values())))
+print(max(x.values()))
+print(min(x.values()))
 
 
 
